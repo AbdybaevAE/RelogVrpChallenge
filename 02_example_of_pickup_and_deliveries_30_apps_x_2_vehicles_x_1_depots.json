@@ -1,0 +1,774 @@
+{
+  "Applications": [
+    {
+      "Type": "PickupAndDelivery",
+      "Name": "luGI5kiqy7w88sU9bNKP",
+      "WeightCapacity": 33,
+      "VolumeCapacity": 96,
+      "Pickup": {
+        "ServiceTime": 2326,
+        "Location": {
+          "X": 3331,
+          "Y": 2343
+        },
+        "StartDate": "2019-11-19T20:51:14.029Z",
+        "EndDate": "2019-11-20T02:55:03.029Z"
+      },
+      "Delivery": {
+        "ServiceTime": 2150,
+        "Location": {
+          "X": 9200,
+          "Y": 1736
+        },
+        "StartDate": "2019-11-19T20:51:14.029Z",
+        "EndDate": "2019-11-20T02:55:03.029Z"
+      },
+      "Skills": [
+        "c",
+        "d"
+      ]
+    },
+    {
+      "Type": "PickupAndDelivery",
+      "Name": "fpMbhgETiqoswiWDosUH",
+      "WeightCapacity": 75,
+      "VolumeCapacity": 95,
+      "Pickup": {
+        "ServiceTime": 3330,
+        "Location": {
+          "X": 8380,
+          "Y": 9302
+        },
+        "StartDate": "2019-11-20T03:24:33.341Z",
+        "EndDate": "2019-11-20T17:10:27.341Z"
+      },
+      "Delivery": {
+        "ServiceTime": 1518,
+        "Location": {
+          "X": 1368,
+          "Y": 1308
+        },
+        "StartDate": "2019-11-20T03:24:33.341Z",
+        "EndDate": "2019-11-20T17:10:27.341Z"
+      },
+      "Skills": [
+        "d",
+        "b",
+        "a"
+      ]
+    },
+    {
+      "Type": "PickupAndDelivery",
+      "Name": "Gr7hXbA965gWjtJTXL5T",
+      "WeightCapacity": 17,
+      "VolumeCapacity": 16,
+      "Pickup": {
+        "ServiceTime": 2403,
+        "Location": {
+          "X": 4743,
+          "Y": 4343
+        },
+        "StartDate": "2019-11-19T22:13:03.844Z",
+        "EndDate": "2019-11-20T08:17:29.844Z"
+      },
+      "Delivery": {
+        "ServiceTime": 1307,
+        "Location": {
+          "X": 8618,
+          "Y": 7444
+        },
+        "StartDate": "2019-11-19T22:13:03.844Z",
+        "EndDate": "2019-11-20T08:17:29.844Z"
+      },
+      "Skills": [
+        "d"
+      ]
+    },
+    {
+      "Type": "PickupAndDelivery",
+      "Name": "9CdjFHy6FnG9hZIO5YYK",
+      "WeightCapacity": 12,
+      "VolumeCapacity": 46,
+      "Pickup": {
+        "ServiceTime": 2506,
+        "Location": {
+          "X": 4526,
+          "Y": 2963
+        },
+        "StartDate": "2019-11-19T21:30:16.846Z",
+        "EndDate": "2019-11-20T10:16:29.846Z"
+      },
+      "Delivery": {
+        "ServiceTime": 1884,
+        "Location": {
+          "X": 2543,
+          "Y": 2112
+        },
+        "StartDate": "2019-11-19T21:30:16.846Z",
+        "EndDate": "2019-11-20T10:16:29.846Z"
+      },
+      "Skills": [
+        "c",
+        "d",
+        "e"
+      ]
+    },
+    {
+      "Type": "Pickup",
+      "ServiceTime": 2324,
+      "Name": "yNwX8NScLyVVXlXJbFPN",
+      "StartDate": "2019-11-20T14:18:46.389Z",
+      "EndDate": "2019-11-20T21:44:59.389Z",
+      "WeightCapacity": 54,
+      "VolumeCapacity": 20,
+      "Skills": [
+        "d",
+        "c",
+        "e"
+      ],
+      "Location": {
+        "X": 7521,
+        "Y": 742
+      }
+    },
+    {
+      "Type": "Pickup",
+      "ServiceTime": 486,
+      "Name": "zmkPoHhvOhlcZ8LyOOq1",
+      "StartDate": "2019-11-20T14:41:02.267Z",
+      "EndDate": "2019-11-20T21:01:33.267Z",
+      "WeightCapacity": 30,
+      "VolumeCapacity": 75,
+      "Skills": [
+        "a",
+        "c",
+        "e"
+      ],
+      "Location": {
+        "X": 3504,
+        "Y": 8787
+      }
+    },
+    {
+      "Type": "PickupAndDelivery",
+      "Name": "OxXrQsnVNIkZ0JLqOXIp",
+      "WeightCapacity": 48,
+      "VolumeCapacity": 20,
+      "Pickup": {
+        "ServiceTime": 828,
+        "Location": {
+          "X": 51,
+          "Y": 1293
+        },
+        "StartDate": "2019-11-19T18:28:30.747Z",
+        "EndDate": "2019-11-20T07:42:35.747Z"
+      },
+      "Delivery": {
+        "ServiceTime": 1066,
+        "Location": {
+          "X": 3443,
+          "Y": 6542
+        },
+        "StartDate": "2019-11-19T18:28:30.747Z",
+        "EndDate": "2019-11-20T07:42:35.747Z"
+      },
+      "Skills": [
+        "d",
+        "c"
+      ]
+    },
+    {
+      "Type": "Delivery",
+      "ServiceTime": 2351,
+      "Name": "ZQsTvUb3wcGESvTVDgZ8",
+      "StartDate": "2019-11-19T21:41:51.279Z",
+      "EndDate": "2019-11-20T06:47:51.279Z",
+      "WeightCapacity": 30,
+      "VolumeCapacity": 14,
+      "Skills": [
+        "d",
+        "c"
+      ],
+      "Location": {
+        "X": 3762,
+        "Y": 1081
+      }
+    },
+    {
+      "Type": "Pickup",
+      "ServiceTime": 2874,
+      "Name": "b0mR9Oi4lXIuqCny6eF5",
+      "StartDate": "2019-11-20T17:53:26.908Z",
+      "EndDate": "2019-11-20T21:57:08.908Z",
+      "WeightCapacity": 70,
+      "VolumeCapacity": 41,
+      "Skills": [
+        "a"
+      ],
+      "Location": {
+        "X": 9829,
+        "Y": 809
+      }
+    },
+    {
+      "Type": "PickupAndDelivery",
+      "Name": "JrxdMf1XsPGIGjOrsWBg",
+      "WeightCapacity": 31,
+      "VolumeCapacity": 18,
+      "Pickup": {
+        "ServiceTime": 3154,
+        "Location": {
+          "X": 4296,
+          "Y": 272
+        },
+        "StartDate": "2019-11-19T23:48:17.280Z",
+        "EndDate": "2019-11-20T11:12:00.280Z"
+      },
+      "Delivery": {
+        "ServiceTime": 2731,
+        "Location": {
+          "X": 4214,
+          "Y": 1300
+        },
+        "StartDate": "2019-11-19T23:48:17.280Z",
+        "EndDate": "2019-11-20T11:12:00.280Z"
+      },
+      "Skills": [
+        "b",
+        "c",
+        "a",
+        "e"
+      ]
+    },
+    {
+      "Type": "Delivery",
+      "ServiceTime": 2516,
+      "Name": "MlEeu6x1oXLajrq6TRpx",
+      "StartDate": "2019-11-20T08:25:29.067Z",
+      "EndDate": "2019-11-20T11:02:32.067Z",
+      "WeightCapacity": 80,
+      "VolumeCapacity": 84,
+      "Skills": [
+        "b",
+        "c",
+        "d"
+      ],
+      "Location": {
+        "X": 403,
+        "Y": 9174
+      }
+    },
+    {
+      "Type": "Delivery",
+      "ServiceTime": 416,
+      "Name": "qASIeeyBArlKkdbNqD2W",
+      "StartDate": "2019-11-20T03:05:15.171Z",
+      "EndDate": "2019-11-20T12:38:03.171Z",
+      "WeightCapacity": 54,
+      "VolumeCapacity": 72,
+      "Skills": [
+        "b",
+        "d",
+        "a",
+        "e"
+      ],
+      "Location": {
+        "X": 1485,
+        "Y": 9886
+      }
+    },
+    {
+      "Type": "PickupAndDelivery",
+      "Name": "6hHOnIJvd0Y8SjvyM5fx",
+      "WeightCapacity": 93,
+      "VolumeCapacity": 74,
+      "Pickup": {
+        "ServiceTime": 430,
+        "Location": {
+          "X": 8388,
+          "Y": 6812
+        },
+        "StartDate": "2019-11-19T21:44:36.655Z",
+        "EndDate": "2019-11-20T09:21:53.655Z"
+      },
+      "Delivery": {
+        "ServiceTime": 2306,
+        "Location": {
+          "X": 1514,
+          "Y": 1593
+        },
+        "StartDate": "2019-11-19T21:44:36.655Z",
+        "EndDate": "2019-11-20T09:21:53.655Z"
+      },
+      "Skills": [
+        "d",
+        "b"
+      ]
+    },
+    {
+      "Type": "Delivery",
+      "ServiceTime": 2178,
+      "Name": "1sFg0pONwjFYTnxtejpE",
+      "StartDate": "2019-11-19T20:11:08.491Z",
+      "EndDate": "2019-11-20T11:01:36.491Z",
+      "WeightCapacity": 49,
+      "VolumeCapacity": 14,
+      "Skills": [
+        "c"
+      ],
+      "Location": {
+        "X": 1783,
+        "Y": 7020
+      }
+    },
+    {
+      "Type": "Pickup",
+      "ServiceTime": 1981,
+      "Name": "nN4CaeOTUVt6hlphlz05",
+      "StartDate": "2019-11-20T10:14:25.328Z",
+      "EndDate": "2019-11-20T18:58:31.328Z",
+      "WeightCapacity": 69,
+      "VolumeCapacity": 45,
+      "Skills": [
+        "c",
+        "d"
+      ],
+      "Location": {
+        "X": 8507,
+        "Y": 2151
+      }
+    },
+    {
+      "Type": "PickupAndDelivery",
+      "Name": "wLyt0iGxvENNmzSIWxkC",
+      "WeightCapacity": 38,
+      "VolumeCapacity": 36,
+      "Pickup": {
+        "ServiceTime": 729,
+        "Location": {
+          "X": 3641,
+          "Y": 4238
+        },
+        "StartDate": "2019-11-20T09:24:40.346Z",
+        "EndDate": "2019-11-20T20:12:52.346Z"
+      },
+      "Delivery": {
+        "ServiceTime": 308,
+        "Location": {
+          "X": 9610,
+          "Y": 5775
+        },
+        "StartDate": "2019-11-20T09:24:40.346Z",
+        "EndDate": "2019-11-20T20:12:52.346Z"
+      },
+      "Skills": [
+        "d",
+        "a",
+        "c"
+      ]
+    },
+    {
+      "Type": "Pickup",
+      "ServiceTime": 2168,
+      "Name": "WUCFdRPFMUo6Jwu5FYN9",
+      "StartDate": "2019-11-20T03:54:43.110Z",
+      "EndDate": "2019-11-20T14:07:45.110Z",
+      "WeightCapacity": 50,
+      "VolumeCapacity": 47,
+      "Skills": [
+        "a",
+        "b"
+      ],
+      "Location": {
+        "X": 5784,
+        "Y": 698
+      }
+    },
+    {
+      "Type": "Delivery",
+      "ServiceTime": 1333,
+      "Name": "KKdLACoFO6PBX96M56Xb",
+      "StartDate": "2019-11-19T21:03:58.794Z",
+      "EndDate": "2019-11-20T11:22:15.794Z",
+      "WeightCapacity": 24,
+      "VolumeCapacity": 95,
+      "Skills": [
+        "a",
+        "c"
+      ],
+      "Location": {
+        "X": 88,
+        "Y": 1520
+      }
+    },
+    {
+      "Type": "PickupAndDelivery",
+      "Name": "qjhAyiqanp6knv4FutES",
+      "WeightCapacity": 19,
+      "VolumeCapacity": 23,
+      "Pickup": {
+        "ServiceTime": 565,
+        "Location": {
+          "X": 7180,
+          "Y": 898
+        },
+        "StartDate": "2019-11-20T00:46:59.249Z",
+        "EndDate": "2019-11-20T14:21:34.249Z"
+      },
+      "Delivery": {
+        "ServiceTime": 3395,
+        "Location": {
+          "X": 5634,
+          "Y": 778
+        },
+        "StartDate": "2019-11-20T00:46:59.249Z",
+        "EndDate": "2019-11-20T14:21:34.249Z"
+      },
+      "Skills": [
+        "e"
+      ]
+    },
+    {
+      "Type": "Delivery",
+      "ServiceTime": 453,
+      "Name": "hSehZVspnLa3AXEtbrsD",
+      "StartDate": "2019-11-20T09:41:29.345Z",
+      "EndDate": "2019-11-20T19:56:46.345Z",
+      "WeightCapacity": 55,
+      "VolumeCapacity": 81,
+      "Skills": [
+        "c",
+        "d"
+      ],
+      "Location": {
+        "X": 9585,
+        "Y": 6279
+      }
+    },
+    {
+      "Type": "Delivery",
+      "ServiceTime": 1131,
+      "Name": "Xfj7nnQ4C0piiC7F9wdc",
+      "StartDate": "2019-11-20T15:37:44.513Z",
+      "EndDate": "2019-11-20T17:53:20.513Z",
+      "WeightCapacity": 40,
+      "VolumeCapacity": 95,
+      "Skills": [
+        "c",
+        "b"
+      ],
+      "Location": {
+        "X": 1829,
+        "Y": 8152
+      }
+    },
+    {
+      "Type": "PickupAndDelivery",
+      "Name": "ivQaRE842ZT3uJ5D0nxZ",
+      "WeightCapacity": 98,
+      "VolumeCapacity": 99,
+      "Pickup": {
+        "ServiceTime": 2274,
+        "Location": {
+          "X": 8681,
+          "Y": 6798
+        },
+        "StartDate": "2019-11-20T04:16:19.572Z",
+        "EndDate": "2019-11-20T16:33:12.572Z"
+      },
+      "Delivery": {
+        "ServiceTime": 1499,
+        "Location": {
+          "X": 9839,
+          "Y": 5372
+        },
+        "StartDate": "2019-11-20T04:16:19.572Z",
+        "EndDate": "2019-11-20T16:33:12.572Z"
+      },
+      "Skills": [
+        "a",
+        "c"
+      ]
+    },
+    {
+      "Type": "Delivery",
+      "ServiceTime": 621,
+      "Name": "Nb1UZ5id6mrr6E1ieRvI",
+      "StartDate": "2019-11-20T03:29:23.892Z",
+      "EndDate": "2019-11-20T05:41:00.892Z",
+      "WeightCapacity": 55,
+      "VolumeCapacity": 86,
+      "Skills": [
+        "e",
+        "a",
+        "b",
+        "c"
+      ],
+      "Location": {
+        "X": 1742,
+        "Y": 561
+      }
+    },
+    {
+      "Type": "Pickup",
+      "ServiceTime": 3120,
+      "Name": "hOoEDNl3vZKeJaJWATjv",
+      "StartDate": "2019-11-20T03:13:48.387Z",
+      "EndDate": "2019-11-20T16:10:27.387Z",
+      "WeightCapacity": 40,
+      "VolumeCapacity": 28,
+      "Skills": [
+        "b",
+        "c"
+      ],
+      "Location": {
+        "X": 6244,
+        "Y": 7773
+      }
+    },
+    {
+      "Type": "PickupAndDelivery",
+      "Name": "jCLkg4wuDphqRnl66u4S",
+      "WeightCapacity": 22,
+      "VolumeCapacity": 98,
+      "Pickup": {
+        "ServiceTime": 3327,
+        "Location": {
+          "X": 6351,
+          "Y": 6945
+        },
+        "StartDate": "2019-11-20T12:57:27.098Z",
+        "EndDate": "2019-11-20T21:53:50.098Z"
+      },
+      "Delivery": {
+        "ServiceTime": 2316,
+        "Location": {
+          "X": 5697,
+          "Y": 6500
+        },
+        "StartDate": "2019-11-20T12:57:27.098Z",
+        "EndDate": "2019-11-20T21:53:50.098Z"
+      },
+      "Skills": []
+    },
+    {
+      "Type": "Delivery",
+      "ServiceTime": 3274,
+      "Name": "h4pys23ekFniZdg6dNZC",
+      "StartDate": "2019-11-20T02:08:27.974Z",
+      "EndDate": "2019-11-20T04:58:42.974Z",
+      "WeightCapacity": 19,
+      "VolumeCapacity": 10,
+      "Skills": [
+        "c",
+        "e",
+        "d"
+      ],
+      "Location": {
+        "X": 9034,
+        "Y": 3769
+      }
+    },
+    {
+      "Type": "Delivery",
+      "ServiceTime": 3525,
+      "Name": "aJO6p7JM23bScXaKV51w",
+      "StartDate": "2019-11-20T09:44:56.118Z",
+      "EndDate": "2019-11-20T14:00:59.118Z",
+      "WeightCapacity": 53,
+      "VolumeCapacity": 59,
+      "Skills": [
+        "e",
+        "d"
+      ],
+      "Location": {
+        "X": 7455,
+        "Y": 2445
+      }
+    },
+    {
+      "Type": "PickupAndDelivery",
+      "Name": "9Yt2pYcfJjcMrY5Gyorb",
+      "WeightCapacity": 10,
+      "VolumeCapacity": 72,
+      "Pickup": {
+        "ServiceTime": 3370,
+        "Location": {
+          "X": 2906,
+          "Y": 739
+        },
+        "StartDate": "2019-11-20T08:22:36.275Z",
+        "EndDate": "2019-11-20T17:44:28.275Z"
+      },
+      "Delivery": {
+        "ServiceTime": 1647,
+        "Location": {
+          "X": 4069,
+          "Y": 2047
+        },
+        "StartDate": "2019-11-20T08:22:36.275Z",
+        "EndDate": "2019-11-20T17:44:28.275Z"
+      },
+      "Skills": [
+        "d",
+        "b",
+        "a"
+      ]
+    },
+    {
+      "Type": "Pickup",
+      "ServiceTime": 3516,
+      "Name": "iHNdEQYuYxPYx2hCI8wX",
+      "StartDate": "2019-11-20T05:34:31.503Z",
+      "EndDate": "2019-11-20T18:16:00.503Z",
+      "WeightCapacity": 14,
+      "VolumeCapacity": 72,
+      "Skills": [
+        "e",
+        "c"
+      ],
+      "Location": {
+        "X": 7210,
+        "Y": 1911
+      }
+    },
+    {
+      "Type": "Pickup",
+      "ServiceTime": 785,
+      "Name": "03Io2Kt7lcSac9wJamdB",
+      "StartDate": "2019-11-20T07:59:49.528Z",
+      "EndDate": "2019-11-20T20:19:17.528Z",
+      "WeightCapacity": 21,
+      "VolumeCapacity": 84,
+      "Skills": [
+        "e",
+        "c"
+      ],
+      "Location": {
+        "X": 8837,
+        "Y": 5497
+      }
+    },
+    {
+      "Type": "PickupAndDelivery",
+      "Name": "ns4nbcdXKJU46XPj1qI8",
+      "WeightCapacity": 21,
+      "VolumeCapacity": 82,
+      "Pickup": {
+        "ServiceTime": 3478,
+        "Location": {
+          "X": 4593,
+          "Y": 5744
+        },
+        "StartDate": "2019-11-19T22:54:01.097Z",
+        "EndDate": "2019-11-20T02:29:20.097Z"
+      },
+      "Delivery": {
+        "ServiceTime": 2337,
+        "Location": {
+          "X": 7538,
+          "Y": 1204
+        },
+        "StartDate": "2019-11-19T22:54:01.097Z",
+        "EndDate": "2019-11-20T02:29:20.097Z"
+      },
+      "Skills": [
+        "d",
+        "b"
+      ]
+    },
+    {
+      "Type": "Pickup",
+      "ServiceTime": 2063,
+      "Name": "tG8dYY8Lkhuz10VP1eOi",
+      "StartDate": "2019-11-19T19:30:16.436Z",
+      "EndDate": "2019-11-19T23:51:44.436Z",
+      "WeightCapacity": 48,
+      "VolumeCapacity": 57,
+      "Skills": [
+        "d",
+        "b",
+        "a"
+      ],
+      "Location": {
+        "X": 1662,
+        "Y": 9309
+      }
+    },
+    {
+      "Type": "Delivery",
+      "ServiceTime": 3380,
+      "Name": "xiqZnoeu2LSX2Dtn5l75",
+      "StartDate": "2019-11-19T20:43:55.975Z",
+      "EndDate": "2019-11-20T09:26:21.975Z",
+      "WeightCapacity": 74,
+      "VolumeCapacity": 55,
+      "Skills": [
+        "d",
+        "a",
+        "c"
+      ],
+      "Location": {
+        "X": 8550,
+        "Y": 9573
+      }
+    }
+  ],
+  "Parameters": {
+    "ConsideVolumeConstraint": false,
+    "ConsideWeightConstraint": true,
+    "ConsiderDepotConstraint": false,
+    "ConsiderVehicleLunch": false
+  },
+  "Vehicles": [
+    {
+      "Name": "rRTKxrYb6xvQVItNu9C5",
+      "WeightCapacity": 721,
+      "VolumeCapacity": 859,
+      "LunchInfo": {
+        "Start": "12:00",
+        "End": "13:30"
+      },
+      "Location": {
+        "X": 5403,
+        "Y": 6842
+      },
+      "Skills": [
+        "d",
+        "e",
+        "b",
+        "a"
+      ]
+    },
+    {
+      "Name": "utIuiNL65mBfowa4NcHC",
+      "WeightCapacity": 825,
+      "VolumeCapacity": 1177,
+      "LunchInfo": {
+        "Start": "12:00",
+        "End": "13:30"
+      },
+      "Location": {
+        "X": 9716,
+        "Y": 1985
+      },
+      "Skills": [
+        "e",
+        "b",
+        "d"
+      ]
+    }
+  ],
+  "Depots": [
+    {
+      "Location": {
+        "X": 5821,
+        "Y": 3370
+      },
+      "ResourceConstraint": {
+        "VehiclesUnit": 1,
+        "MinutesUnit": 88
+      }
+    }
+  ]
+}
