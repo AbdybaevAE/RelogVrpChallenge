@@ -112,7 +112,6 @@
 ```json
 {
       "Type": "PickupAndDelivery",
-      "ServiceTime": 360,
       "Name": "zHd9UVOXfrf7Qf7b0hf5",
       "WeightCapacity": 16,
       "VolumeCapacity": 38,
@@ -153,7 +152,6 @@
 ```json
 {
       "Type": "MultiPickupsAndDelivery",
-      "ServiceTime": 360,
       "Name": "BBRitUebwf7aBIKJYCfR",
       "WeightCapacity": 85,
       "VolumeCapacity": 58,
