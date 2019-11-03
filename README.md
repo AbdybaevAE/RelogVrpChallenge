@@ -117,20 +117,22 @@
       "WeightCapacity": 16,
       "VolumeCapacity": 38,
       "Pickup": {
-        "Location": {
-          "X": 5637,
-          "Y": 7153
+          "ServiceTime": 2326,
+          "Location": {
+            "X": 3331,
+            "Y": 2343
+          },
+          "StartDate": "2019-11-19T20:51:14.029Z",
+          "EndDate": "2019-11-20T02:55:03.029Z"
         },
-        "StartDate": "2019-11-20T14:41:39.504Z",
-        "EndDate": "2019-11-21T02:10:15.504Z"
-      },
       "Delivery": {
-        "Location": {
-          "X": 6684,
-          "Y": 41
-        },
-        "StartDate": "2019-11-20T14:41:39.504Z",
-        "EndDate": "2019-11-21T02:10:15.504Z"
+          "ServiceTime": 2150,
+          "Location": {
+            "X": 9200,
+            "Y": 1736
+          },
+          "StartDate": "2019-11-19T20:51:14.029Z",
+          "EndDate": "2019-11-20T02:55:03.029Z"
       },
       "Skills": [
         "d",
@@ -156,46 +158,42 @@
       "WeightCapacity": 85,
       "VolumeCapacity": 58,
       "Pickups": [
-        {
+         {
+          "ServiceTime": 697,
           "Location": {
-            "X": 4822,
-            "Y": 7564
+            "X": 1167,
+            "Y": 2454
           },
-          "StartDate": "2019-11-20T10:28:46.784Z",
-          "EndDate": "2019-11-20T18:04:04.784Z"
+          "StartDate": "2019-11-20T06:20:06.476Z",
+          "EndDate": "2019-11-20T10:50:08.476Z"
         },
         {
+          "ServiceTime": 3010,
           "Location": {
-            "X": 695,
-            "Y": 7825
+            "X": 9994,
+            "Y": 1658
           },
-          "StartDate": "2019-11-20T10:28:46.784Z",
-          "EndDate": "2019-11-20T18:04:04.784Z"
+          "StartDate": "2019-11-20T06:20:06.476Z",
+          "EndDate": "2019-11-20T10:50:08.476Z"
         },
         {
+          "ServiceTime": 790,
           "Location": {
-            "X": 5872,
-            "Y": 8954
+            "X": 8366,
+            "Y": 9311
           },
-          "StartDate": "2019-11-20T10:28:46.784Z",
-          "EndDate": "2019-11-20T18:04:04.784Z"
-        },
-        {
-          "Location": {
-            "X": 4296,
-            "Y": 294
-          },
-          "StartDate": "2019-11-20T10:28:46.784Z",
-          "EndDate": "2019-11-20T18:04:04.784Z"
+          "StartDate": "2019-11-20T06:20:06.476Z",
+          "EndDate": "2019-11-20T10:50:08.476Z"
         }
       ],
       "Delivery": {
+        "ServiceTime": 2066,
         "Location": {
-          "X": 7703,
-          "Y": 233
+          "X": 8049,
+          "Y": 9197
         },
-        "StartDate": "2019-11-20T10:28:46.784Z",
-        "EndDate": "2019-11-20T18:04:04.784Z"
+        "StartDate": "2019-11-20T06:20:06.476Z",
+        "EndDate": "2019-11-20T10:50:08.476Z"
       },
       "Skills": [
         "e",
